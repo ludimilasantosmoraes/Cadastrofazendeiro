@@ -1,0 +1,17 @@
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\bin\Debug\net6.0-windows\Cadastro de fazendeiro.exe
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\bin\Debug\net6.0-windows\Cadastro de fazendeiro.deps.json
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\bin\Debug\net6.0-windows\Cadastro de fazendeiro.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\bin\Debug\net6.0-windows\Cadastro de fazendeiro.dll
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\bin\Debug\net6.0-windows\Cadastro de fazendeiro.pdb
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro de fazendeiro.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro_de_fazendeiro.Form1.resources
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro de fazendeiro.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro de fazendeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro de fazendeiro.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro de fazendeiro.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro de fazendeiro.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro de fazendeiro.dll
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\refint\Cadastro de fazendeiro.dll
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro de fazendeiro.pdb
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\Cadastro de fazendeiro.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro de fazendeiro\Cadastro de fazendeiro\obj\Debug\net6.0-windows\ref\Cadastro de fazendeiro.dll
